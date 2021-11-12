@@ -8,6 +8,8 @@ I'm proficient in:
 - C#
 - Git
 - Salesforce
+
+
 I'm still working on:
 - C/C++
 - Tableau
