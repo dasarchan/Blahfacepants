@@ -14,7 +14,7 @@ I'm still working on:
 - C/C++
 - Tableau
 - R
-- JavaScript
+- React/Svelte/JS
 
 <!--
 **Blahfacepants/Blahfacepants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
